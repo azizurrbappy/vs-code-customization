@@ -1,0 +1,20 @@
+  {
+  "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontSize": 14,
+  "terminal.integrated.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.lineHeight": 24,
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Andromeda Bordered",
+  "workbench.iconTheme": "symbols",
+  "editor.renderWhitespace": "all",
+
+    // Prettier Config
+  "prettier.proseWrap": "always",
+  "prettier.singleQuote": true,
+  "prettier.arrowParens": "avoid",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+}
