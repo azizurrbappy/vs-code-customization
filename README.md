@@ -83,3 +83,10 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 - [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono)
 - [Fira Code](https://fonts.google.com/specimen/Fira+Code)
 - [Operator Mono](https://www.typography.com/fonts/operator/styles)
+
+## <img src="./img/man.png" alt="Contributors Image" width="24" height="24"> Contributors
+- [@Azizur Rahman Bappy](https://github.com/azizurrbappy/)
+
+## <img src="./img/happy.png" alt="Follow me Image" width="24" height="24"> Follow me
+- [@Github](https://github.com/azizurrbappy/) 
+- [@Linkedin](https://www.linkedin.com/in/azizurrbappy/)
