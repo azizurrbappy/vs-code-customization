@@ -1,6 +1,6 @@
 # Visual Studio Code Customization
 
-## 📝 Why?
+## <img src="./img/paper.png" alt="Paper Image" width="500" height="600"> Why?
 I've been a loyal user of Visual Studio Code since 2020, and it has become my preferred code editor. Its speed and flexibility make it a reliable choice for me, regardless of the operating system I'm using. Over the years, I've created numerous projects using this code editor, and I've made various customizations to tailor it to my preferences.
 
 I've tweaked its appearance, added and modified features, installed extensions, and even created a personalized theme because I haven't found a theme that's absolutely perfect for me. Each time I set up a new work environment, I find myself manually configuring these settings. To streamline this process, I've uploaded all my settings here, so I can quickly apply them. Feel free to use any of them for your convenience.
@@ -29,25 +29,20 @@ I've tweaked its appearance, added and modified features, installed extensions, 
 }
 ```
 ## ⚙️ VS Code Extension
-- Auto Close Tag (Jun Han)
-- Auto Import - ES6, TS, JSX, TSX (Sergey Korenuk)
 - Auto Rename Tag (Jun Han)
-- Debugger for Chrome
+- Better Comments (Aaron Bond)
+- Bookmarks (Alessandro Fragnani)
+- Code Spell Checker (Street Side Software)
+- Container Tools (Microsoft)
+- Discord Presence (Crawl)
+- Error Lens (Alexander)
+- ES7+ React/Redux/React-Native snippets (dsznajder)
 - ESLint (Microsoft)
-- indent-rainbow (oderwat)
-- HTML CSS Support (ecmel)
-- JavaScript (ES6) code snippets (charalampos karypidis)
-- Live Server (Ritwick Dey)
-- Live Sass Compiler (Glenn Marks)
-- Material Icon Theme (Philipp Kief)
+- gitignore (CodeZombie)
+- Image preview (Kiss Tamás)
 - npm Intellisense (Christian Kohler)
 - Path Intellisense (Christian Kohler)
-- Postman (Postman)
-- Prettier - Code formatted (Prettier)
-- Reactjs code snippets (charalampos karypidis)
-- Simple React Snippets (Burke Holland)
-- Snipped (Jefferson Licet)
-- Stylelint (Stylelint)
-- WordPress Snippets (wpprotools.io)
-- VSCode React Refactor (planbcoding)
+- Prettier - Code formatter (Prettier)
+- Project Manager (Alessandro Fragnani)
+- Symbols (Miguel Solorio)
 - Tailwind CSS IntelliSense (Tailwind Labs)
