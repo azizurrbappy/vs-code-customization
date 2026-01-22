@@ -78,6 +78,7 @@ of them for your convenience.
 - npm Intellisense (Christian Kohler)
 - Path Intellisense (Christian Kohler)
 - Prettier - Code formatter (Prettier)
+- Pretty TypeScript Errors (yoavbls)
 - Project Manager (Alessandro Fragnani)
 - Symbols (Miguel Solorio)
 - Tailwind CSS IntelliSense (Tailwind Labs)
