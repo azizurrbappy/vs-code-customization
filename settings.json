@@ -1,20 +1,41 @@
-  {
-  "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, 'Courier New', monospace",
+{
   "editor.fontSize": 14,
-  "terminal.integrated.fontSize": 14,
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "editor.lineHeight": 24,
   "window.zoomLevel": 1,
-  "workbench.colorTheme": "Andromeda Bordered",
-  "workbench.iconTheme": "symbols",
+  "editor.wordWrap": "on",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
   "editor.renderWhitespace": "all",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
 
-    // Prettier Config
+  // * VS Code Theme Customization
+  "workbench.iconTheme": "symbols",
+  "workbench.colorTheme": "Andromeda Bordered",
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.fontSize": 14,
+  "diffEditor.wordWrap": "on",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, 'Courier New', monospace",
+  // "files.autoSave": "afterDelay",
+  // "files.autoSaveDelay": 10,
+
+  // ? Extensions Settings
+  // * Live Server
+  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+
+  // * Prettier Config
   "prettier.proseWrap": "always",
   "prettier.singleQuote": true,
   "prettier.arrowParens": "avoid",
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "[html]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
+  "github.copilot.nextEditSuggestions.enabled": false
 }
