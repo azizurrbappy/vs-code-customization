@@ -70,22 +70,23 @@ of them for your convenience.
 - Code Spell Checker (Street Side Software)
 - Container Tools (Microsoft)
 - Discord Presence (Crawl)
-- Error Lens (Alexander)
+- Error Lens (Alexander), Optional
 - ES7+ React/Redux/React-Native snippets (dsznajder)
 - ESLint (Microsoft)
-- gitignore (CodeZombie)
+- gitignore (CodeZombie), Optional
 - Image preview (Kiss Tamás)
+- Live Server (Ritwick Dey)
+- Material Icon Theme (Philipp Kief)
 - npm Intellisense (Christian Kohler)
 - Path Intellisense (Christian Kohler)
 - Prettier - Code formatter (Prettier)
-- Pretty TypeScript Errors (yoavbls)
 - Project Manager (Alessandro Fragnani)
-- Symbols (Miguel Solorio)
 - Tailwind CSS IntelliSense (Tailwind Labs)
 
 ## <img src="./img/color-palette.png" alt="Paper Image" width="24" height="24"> VS Code Themes
 
-- Andromeda 👈
+- Dark Modern (VS Code Default) 👈
+- Andromeda - (Eliver Lara)
 - Minimal (nichabosh)
 
 ## <img src="./img/gold-key.png" alt="VS Code Keyboard Shortcuts Image" width="24" height="24"> VS Code Keyboard Shortcuts
