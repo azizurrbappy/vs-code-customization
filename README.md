@@ -30,10 +30,6 @@ of them for your convenience.
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.formatOnType": true,
-
-  // * VS Code Theme Customization
-  "workbench.iconTheme": "symbols",
-  "workbench.colorTheme": "Andromeda Bordered",
   "workbench.editor.enablePreview": false,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "terminal.integrated.fontSize": 14,
@@ -45,7 +41,7 @@ of them for your convenience.
 
   // ? Extensions Settings
   // * Live Server
-  "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+  // "liveServer.settings.CustomBrowser": "brave://new-tab",
   "liveServer.settings.donotShowInfoMsg": true,
   "liveServer.settings.donotVerifyTags": true,
 
@@ -55,9 +51,20 @@ of them for your convenience.
   "prettier.arrowParens": "avoid",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features",
+    "editor.defaultFormatter": "vscode.html-language-features"
   },
   "github.copilot.nextEditSuggestions.enabled": false,
+  "containers.containerClient": "com.microsoft.visualstudio.containers.docker",
+  "containers.orchestratorClient": "com.microsoft.visualstudio.orchestrators.dockercompose",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.compactFolders": false,
+  "workbench.colorTheme": "Dark Modern",
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  }
 }
 ```
 
@@ -66,7 +73,7 @@ of them for your convenience.
 - Auto Close Tag (Jun Han)
 - Auto Rename Tag (Jun Han)
 - Better Comments (Aaron Bond)
-- Bookmarks (Alessandro Fragnani)
+- Bookmarks (Alessandro Fragnani), Optional
 - Code Spell Checker (Street Side Software)
 - Container Tools (Microsoft)
 - Discord Presence (Crawl)
